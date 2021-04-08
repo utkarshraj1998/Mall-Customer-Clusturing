@@ -15,3 +15,4 @@ This data set is created only for the learning purpose of the customer segmentat
 3. Age: The age of the customer
 4. Annual Income(k$): It is the annual income of the customer
 5. Spending Score: It is the score(out of 100) given to a customer by the mall authorities, based on the money spent and the behavior of the customer.
+Made by: Utkarsh Raj
